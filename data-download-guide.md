@@ -3,6 +3,7 @@ layout: default # Use "default" or specify a layout if your theme provides speci
 title: Data Download Guide # The title of your page
 permalink: /data-download-guide/ # The URL path you want for this page
 nav_order: 2 # The order in which this page should appear in the navigation menu, if applicable
+has_children: true
 ---
 
 # Data Download Guide
