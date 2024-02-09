@@ -2,5 +2,5 @@
 
 ## About the Project
 
-This repository prividies CDN links to dowload the data set for researchers and students.
+This repository provides CDN links to download the data set for researchers and students.
 

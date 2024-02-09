@@ -6,6 +6,4 @@ nav_order: 1
 
 # Project Overview
 
-This project explores the feasibility of hosting large datasets on AWS S3, focusing on cost-effective storage and accessibility. We delve into cost estimation for varying storage and download scenarios, emphasizing the impact of storage size over the number of get requests. The analysis extends to experimenting with different storage capacities and their corresponding costs, aiming to optimize for budget-friendly data hosting solutions.
-
-For detailed insights, refer to our comprehensive discussion on AWS cost calculation, storage optimization, and potential for educational discounts and collaborations.
+Access to code snippets for downloading data directly to their systems. 
